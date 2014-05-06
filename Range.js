@@ -1,3 +1,5 @@
+"use strict"
+
 /**
  * Numerical range that tracks a minimum and maximim value and can determine if a provided value falls
  * within that range

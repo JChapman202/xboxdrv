@@ -1,3 +1,5 @@
+"use strict";
+
 var Range = require("./Range");
 var EventEmitter = require("events").EventEmitter;
 var util = require("util");
